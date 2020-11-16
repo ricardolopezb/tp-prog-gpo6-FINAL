@@ -1,0 +1,10 @@
+Este paquete cuenta con cinco archivos de texto y una clase de manejo para estos.
+
+Archivos:
+        -BaseAnses: representa a la base de datos de los ciudadanos que pueden registrarse en el sistema.
+        -BaseLocal: ciudadano ingresado en el sistema a partir de la corroboracion de existencia de sus datos en la BaseAnses.
+        -SintomasTotales: representa la base de sintomas que contemplamos como "existentes".
+        -SintomasGenerados: a partir de los sintomas existentes los administradores generan sintomas en el sistema capaces de ser reportados por los usuarios registrados.
+
+Clase archivos:
+        -Contiene los metodos que hacen capaz a la escritura, lectura y edicion de cada uno de los archivos

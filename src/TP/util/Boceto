@@ -1,0 +1,60 @@
+2/10/2020
+
+
+Admin
+	Atributos:
+(Archivo) lista de bloqueados: Cada admin debe tener acceso y poder modificar la misma lista.
+
+
+	Métodos:
+Bloquear
+Desbloquear
+Agregar ciudadanos
+Eliminar ciudadanos
+Crear eventos
+Eliminar eventos
+Poder ver la información de un ciudadano tipo buscador.
+Ver los 3 eventos más comunes por zona
+Ver mapa
+
+(Recibir avisos de ciudadanos bloqueados)
+
+Ciudadano
+	Atributos:
+CUIL
+Celular
+(Encuentro) anterior
+(Encuentro) posterior
+ArrayList<Eventos> síntomas
+zona
+
+
+	Métodos:
+Registrarse
+Loguearse
+Agregarse su síntoma (fecha inicio, cual es el síntoma (sale de una lista))
+Dar de baja el síntoma (fecha de fin)
+Pedir confirmación de contacto (CUIL/Celular de la otra persona, fecha desde y hasta)
+Aceptar o rechazar el contacto con otra persona.
+Recibir notificación de síntomas en su contacto que tenga 2 síntomas
+
+
+Evento(síntoma)
+	Atributos:
+Nombre del síntoma
+Relaciones
+
+
+Monitor?
+
+
+
+
+
+
+Encuentro
+Ciudadano 1     // 2002049954,1924894392,100920,250920
+Ciudadano 2
+Fecha de fin
+Fecha de inicio
+(fecha de fin + 48hs) fecha limite de efecto

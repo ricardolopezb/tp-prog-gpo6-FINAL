@@ -1,0 +1,21 @@
+Grupo 6
+Informe de 2da Entrega:
+
+--> Se implementaron dos grandes funcionalidades: Manejo de Eventos por parte del admin y de los Ciudadanos.
+
+		Ahora los admins pueden seleccionar Sintomas de una lista general y activarlos en otra lista,
+		de la cual los ciudadanos pueden seleccionar y dar de alta en sus cuentas cuales sintomas padecen.
+		Tambien se implemento la funcionalidad de removerlos.
+
+
+		Se implemento el sistema de notificaciones que es utilizado para gestionar los encuentros cercanos
+		entre Ciudadanos. Un ciudadano ahora puede reportar un encuentro, dando el cuil o celular de la otra
+		persona y la fecha en que sucedio. A partir de ahi, a la otra persona le aparece como notificacion
+		la confirmacion del encuentro, la cual puede aceptar o rechazar. En caso de aceptar, se registra el
+		encuentro. Caso contrario, se cuenta como una solicitud rechazada. Se implemento que al llegar a las 5,
+		se bloquee el Ciudadano. Para el manejo de contactos se creo un paquete "notificaciones" que contiene
+		una jerarquia usada en la comunicacion entre los ciudadanos.
+
+--> Se optimizaron los metodos de la clase Archivo, y se busco la reutilizacion de metodos de escritura y 		lectura mas genericos
+
+--> Se implementaron funciones menores en la clase Admin y Ciudadano.

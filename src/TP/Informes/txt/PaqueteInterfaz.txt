@@ -1,0 +1,4 @@
+Clase interfaz:
+    - "menu" de operaciones
+    - permite la interaccion por consola de los usuarios,sean administradores o ciudadanos.
+    - clase principal.

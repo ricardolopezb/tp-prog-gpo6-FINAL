@@ -1,0 +1,3 @@
+Clase check:
+    - metodos de chekeo para validar los datos ingresados
+    - aplica para celular, cuil, extension de digitos, datos de anses, claves de administrador

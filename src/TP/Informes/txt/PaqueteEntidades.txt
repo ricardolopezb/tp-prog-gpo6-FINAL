@@ -1,0 +1,5 @@
+Clase Fecha:
+    -encargada del registro de fechas más la contemplacion de 48 horas necesarias para atribuir contagios.
+
+Clase Encuentro:
+    -para el manejo de encuentros entre usuarios

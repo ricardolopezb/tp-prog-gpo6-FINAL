@@ -1,0 +1,20 @@
+Nombre 	CUIL	Celular	Zona
+Luciana Guerrero	27429553946	1548294850	Pilar
+Alejandro Campos	20465925434	1559374570	Escobar
+Michael Santamaria	20759364738	1556293649	Ciudad de Buenos Aires
+Alejo Minguez	20568302538	1573859463	San Isidro
+Yesica Rosales	27263946036	1574536485	Pilar
+Adolfo Almagro	20193573592	1583644750	Pilar
+Alfonso Hermoso	20650243065	1547926503	Ciudad de Buenos Aires
+Vanessa Font	27364963745	1547028836	Escobar
+Noel Herrera	20649317664	1588594264	Escobar
+Olga Gimeno	27956490253	1548852242	San Isidro
+Maitane Rubio	27957675826	1549300455	Ciudad de Buenos Aires
+Ismail Diez	20462944762	1584403799	Pilar
+Pepe Mera	20635200254	1573749932	Ciudad de Buenos Aires
+Damaris Alamo	27026649826	1577473993	San Isidro
+Sheila Olmo	27642056234	1566499303	Pilar
+Brahim Nadal	20955205834	1532203949	Escobar
+Claudia Rodrguez	27954392347	1578849204	Escobar
+Adan Planas	20640263853	1537740321	Pilar
+Carlos Rodriguez	20312424856	1589493645	San Isidro
